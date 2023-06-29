@@ -1,3 +1,7 @@
+<p align="right">
+    <img alt="ISPC" src="7f17fb6f28138ee6c2fcc6330d106fd901a9b455">
+</p>
+</p>
 <p align="center">
   <h2 align="center">GRUPO12 PROCESAMIENTO DE DATOS - 2023 </h2>
 </p> 
