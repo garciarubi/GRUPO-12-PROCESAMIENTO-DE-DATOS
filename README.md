@@ -6,8 +6,9 @@
   <h2 align="center">GRUPO12 PROCESAMIENTO DE DATOS - 2023 </h2>
 </p> 
 <p align="left">
-  <h3 align="left">Integrantes: </h3>
-     <ul type=”A”>
+     <h4 align="left"> Docente: Marcos Augusto Ugarte </h4>
+  <h4 align="left">Integrantes: </h4>
+     <h4 <ul type=”A”>
        <li>Carolina Margheim </li>
        <li>Lamine Mechedou </li>
        <li>Pablo Lonardi </li>
@@ -15,5 +16,5 @@
        <li>Rubí García Alarcón </li>
        <li>Mariel Muñoz </li>
        <li>Daiana Senese </li>
-     </ul>
+     </ul>  </h4>
 </p> 
