@@ -43,8 +43,12 @@
 </p> 
       
 
-    
-     
-    
-    
+
+
+
+
+
+<p align="center">
+     <img src="https://github.com/garciarubi/GRUPO-12-PROCESAMIENTO-DE-DATOS/blob/main/Pie%20de%20pagina.jpg" width="1200" height= "100"> 
+</p>
 
