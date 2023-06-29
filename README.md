@@ -4,7 +4,7 @@
 <p align="center">
     <h2 align="center">Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial </h2>
      <h4 align="center"> PROCESAMIENTO DE DATOS - 2023 </h4>
-     <h2>GRUPO N°12</h2>
+     <h3>GRUPO N°12</h3>
 </p> 
 <p align="left">
      <h4 align="left"> Docente: Marcos Augusto Ugarte </h4>
