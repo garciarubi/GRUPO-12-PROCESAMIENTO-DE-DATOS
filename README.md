@@ -10,12 +10,12 @@
      <h4 align="left"> Docente: Marcos Augusto Ugarte </h4>
   <h4 align="left">Integrantes: </h4>
      <h4 <ul type=”A”>
-       <li>Carolina Margheim (Comisión 2)</li>
-       <li>Lamine Mechedou (Comisión 2)</li>
-       <li>Pablo Lonardi (Comisión 1)</li>
-       <li>Mauricio Zenere (Comisión 2)</li>
-       <li>Rubí García Alarcón (Comisión 2)</li>
-       <li>Mariel Muñoz (Comisión 2)</li>
-       <li>Daiana Senese (Comisión 2)</li>
+       <li>Carolina Margheim - caro08.m@gmail.com (Comisión 2) </li>
+       <li>Lamine Mechedou - lmechedou@gmail.com (Comisión 2)</li>
+       <li>Pablo Lonardi - lonardipablo@gmail.com (Comisión 1)</li>
+       <li>Mauricio Zenere - zeneremauricio@gmail.com (Comisión 2)</li>
+       <li>Rubí García Alarcón - rubialark@gmail.com (Comisión 2)</li>
+       <li>Mariel Muñoz - marumunoz@gmail.com (Comisión 2)</li>
+       <li>Daiana Senese - daianasenese@gmail.com (Comisión 2)</li>
      </ul>  </h4>
 </p> 
