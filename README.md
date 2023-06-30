@@ -41,10 +41,19 @@
       <h4 align="left">  Este trabajo puede ser útil a las instituciones gubernamentales, policiales, judiciales, y demás autoridades encargadas de supervisar, controlar y prevenir los hechos de violencia, dándoles un informe en el cual pueden ver reflejado el alto número de estos casos que se dan en el país. </h4>
       <h4 align="left">  Asimismo, el nivel de aplicación del análisis va a depender de la institución o sector que tome los resultados del trabajo, ya que a mi entender puede ser un Nivel Operativo para aquellas instituciones que se dedican a guardar estadísticas e informarlas simplemente, como sería el caso de los medios de comunicación, que dan a conocer la información. Por su parte, puede ser un Nivel de Aplicación Estratégico, si la información es utilizada por instituciones, para analizar la realidad de la violencia de género en el país y tratar tomar medidas de prevención y concientización.  </h4>
 </p> 
-      
-
-
-
+<p align="center">
+    <h2 align="center">Procesamiento de los Datos </h2>
+    <h4 align="left">  Se llevó a cabo el cumplimiento de las tareas propuestas, se tomó en primer lugar el Dataset referido en la introducción, de una página oficial del gobierno nacional, puntualmente del Ministerio de Justicia y Derechos Humanos, luego como se puede ver se realizó todo el trabajo de procesamiento de la información con las herramientas aprendidas en clase. Se utilizó Jupyter Notebook, y el trabajo se ve reflejado en el GitHub del grupo, en el archivo Proyecto Final- Femicidios & Homicidio Agravado - G12.ipynb.   </h4>
+     <h4 align="left"> Se trabajo usando Lenguaje Python, y librerías Pandas, Matplotlib, Numpy y Seaborn.   </h4>
+     <h4 align="left"> Luego con la información obtenida, se realizó visualizaciones en PowerBi, la que se encuentra en el Github en el archivo Trabajo Integrador – Grupo 12 - ISPC.pbix; asimismo se adjunta una presentación en PowerPoint.   </h4>
+</p> 
+<p align="center">
+    <h2 align="center">CONCLUSIONES </h2>   
+      <h4 align="left"> Analizando la información que se puede ver en PowerBi, que la cantidad de femicidios en relación a los homicidios agravados por el género, realmente lo supera por un número desproporcionado, que incluso a los miembros del grupo nos dejo sorprendidos por la cantidad de la diferencia. Asimismo, la ocurrencia de esos hechos en las provincias mas pobladas del país también fue muy superior en relación al resto.   </h4>
+       <h4 align="left"> Todo esto nos llevo a una conclusión posterior, y es el hecho de que sin dudas, no se lleva un control pormenorizado de esta situación, y no hay un entrecruzamiento de datos entre los ministerios de justicias de cada provincia, sus poderes judiciales y el gobierno central, que permitan tener una información actualizada y completa de esta realidad, que los número reflejan.    </h4>
+       </p>
+       </p>
+       </p>
 
 
 
