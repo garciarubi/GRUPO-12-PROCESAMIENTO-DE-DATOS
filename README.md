@@ -7,7 +7,7 @@
      <h3>GRUPO N°12 (Alumnos de ambas comisiones)</h3>
 </p> 
 <p align="left">
-     <h4 align="left"> Docente: Marcos Augusto Ugarte </h4>
+     <h4 align="left"> Docente: Moises Tinte </h4>
   <h4 align="left">Integrantes: </h4>
      <h4 <ul type=”A”>
        <li>Carolina Margheim - caro08.m@gmail.com (Comisión 2) </li>
